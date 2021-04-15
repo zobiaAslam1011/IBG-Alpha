@@ -1,0 +1,49 @@
+.elementor-520 .elementor-element.elementor-element-fb32f9a > .elementor-element-populated, .elementor-520 .elementor-element.elementor-element-fb32f9a > .elementor-element-populated > .elementor-background-overlay, .elementor-520 .elementor-element.elementor-element-fb32f9a > .elementor-background-slideshow{border-radius:10px 10px 10px 10px;}.elementor-520 .elementor-element.elementor-element-fb32f9a > .elementor-element-populated{box-shadow:5px 5px 15px 1px rgba(0, 0, 0, 0.1);padding:0px 0px 0px 0px;}.elementor-520 .elementor-element.elementor-element-7f57370 .elementor-image img{border-radius:10px 10px 0px 0px;}.elementor-520 .elementor-element.elementor-element-f462573{text-align:center;}.elementor-520 .elementor-element.elementor-element-f462573 .elementor-heading-title{color:#1C2023;font-family:"Mont", Sans-serif;font-size:24px;font-weight:700;line-height:42px;letter-spacing:0px;}.elementor-520 .elementor-element.elementor-element-42bf9e5{text-align:center;}.elementor-520 .elementor-element.elementor-element-42bf9e5 .elementor-heading-title{font-family:"Mont", Sans-serif;font-size:18px;font-weight:400;}.elementor-520 .elementor-element.elementor-element-c2e9276{padding:20px 20px 20px 20px;}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Mont';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Regular.woff2') format('woff2'),
+		url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Regular.woff') format('woff');
+}
+@font-face {
+	font-family: 'Mont';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Light.woff2') format('woff2'),
+		url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Light.woff') format('woff');
+}
+@font-face {
+	font-family: 'Mont';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-SemiBold.woff2') format('woff2'),
+		url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-SemiBold.woff') format('woff');
+}
+@font-face {
+	font-family: 'Mont';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Bold.woff2') format('woff2'),
+		url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Bold.woff') format('woff');
+}
+@font-face {
+	font-family: 'Mont';
+	font-style: normal;
+	font-weight: 800;
+	font-display: auto;
+	src: url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Heavy.woff2') format('woff2'),
+		url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Heavy.woff') format('woff');
+}
+@font-face {
+	font-family: 'Mont';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Black.woff2') format('woff2'),
+		url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Black.woff') format('woff');
+}
+/* End Custom Fonts CSS */

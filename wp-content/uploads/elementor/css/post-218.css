@@ -1,0 +1,49 @@
+.elementor-218 .elementor-element.elementor-element-2355724 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-218 .elementor-element.elementor-element-54b1693 > .elementor-element-populated{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-218 .elementor-element.elementor-element-0435ba8 > .elementor-container{max-width:640px;}.elementor-bc-flex-widget .elementor-218 .elementor-element.elementor-element-851d886.elementor-column .elementor-column-wrap{align-items:flex-end;}.elementor-218 .elementor-element.elementor-element-851d886.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap{align-content:flex-end;align-items:flex-end;}.elementor-218 .elementor-element.elementor-element-851d886.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:flex-end;}.elementor-218 .elementor-element.elementor-element-851d886:not(.elementor-motion-effects-element-type-background) > .elementor-column-wrap, .elementor-218 .elementor-element.elementor-element-851d886 > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#27A7A691;}.elementor-218 .elementor-element.elementor-element-851d886 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin:0px 0px 0px 0px;padding:50px 50px 50px 50px;}.elementor-218 .elementor-element.elementor-element-851d886 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-218 .elementor-element.elementor-element-481c513 .elementor-heading-title{color:#FFFFFF;font-family:"Mont", Sans-serif;font-size:22px;font-weight:700;text-transform:uppercase;letter-spacing:0px;}.elementor-218 .elementor-element.elementor-element-6150c78{--divider-border-style:solid;--divider-color:#FF4546;--divider-border-width:3px;}.elementor-218 .elementor-element.elementor-element-6150c78 .elementor-divider-separator{width:75px;}.elementor-218 .elementor-element.elementor-element-6150c78 .elementor-divider{padding-top:0px;padding-bottom:0px;}.elementor-218 .elementor-element.elementor-element-eb7af55 .elementor-heading-title{color:#FFFFFF;font-family:"Mont", Sans-serif;font-size:13px;font-weight:400;text-transform:uppercase;line-height:20px;}@media(min-width:768px){.elementor-218 .elementor-element.elementor-element-851d886{width:100%;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Mont';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Regular.woff2') format('woff2'),
+		url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Regular.woff') format('woff');
+}
+@font-face {
+	font-family: 'Mont';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Light.woff2') format('woff2'),
+		url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Light.woff') format('woff');
+}
+@font-face {
+	font-family: 'Mont';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-SemiBold.woff2') format('woff2'),
+		url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-SemiBold.woff') format('woff');
+}
+@font-face {
+	font-family: 'Mont';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Bold.woff2') format('woff2'),
+		url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Bold.woff') format('woff');
+}
+@font-face {
+	font-family: 'Mont';
+	font-style: normal;
+	font-weight: 800;
+	font-display: auto;
+	src: url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Heavy.woff2') format('woff2'),
+		url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Heavy.woff') format('woff');
+}
+@font-face {
+	font-family: 'Mont';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Black.woff2') format('woff2'),
+		url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Black.woff') format('woff');
+}
+/* End Custom Fonts CSS */

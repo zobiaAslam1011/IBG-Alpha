@@ -1,0 +1,49 @@
+.elementor-1047 .elementor-element.elementor-element-6a1b77f{text-align:left;}.elementor-1047 .elementor-element.elementor-element-6a1b77f .elementor-image img{border-radius:20px 20px 20px 20px;}.elementor-1047 .elementor-element.elementor-element-d6911a0 .elementor-heading-title{color:#25272B;font-family:"Mont", Sans-serif;font-size:21px;font-weight:700;text-transform:uppercase;line-height:24px;letter-spacing:1.5px;}.elementor-1047 .elementor-element.elementor-element-d9d4c2c .elementor-heading-title{font-family:"Mont", Sans-serif;font-size:17px;font-weight:400;line-height:24px;letter-spacing:1px;}.elementor-1047 .elementor-element.elementor-element-3a34646 .elementor-button .elementor-align-icon-right{margin-left:9px;}.elementor-1047 .elementor-element.elementor-element-3a34646 .elementor-button .elementor-align-icon-left{margin-right:9px;}.elementor-1047 .elementor-element.elementor-element-3a34646 .elementor-button{font-family:"Mont", Sans-serif;font-weight:700;fill:#282828;color:#282828;background-color:#2B2B2B00;padding:0px 0px 0px 0px;}.elementor-1047 .elementor-element.elementor-element-3a34646 .elementor-button:hover, .elementor-1047 .elementor-element.elementor-element-3a34646 .elementor-button:focus{color:#FF4546;}.elementor-1047 .elementor-element.elementor-element-3a34646 .elementor-button:hover svg, .elementor-1047 .elementor-element.elementor-element-3a34646 .elementor-button:focus svg{fill:#FF4546;}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Mont';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Regular.woff2') format('woff2'),
+		url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Regular.woff') format('woff');
+}
+@font-face {
+	font-family: 'Mont';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Light.woff2') format('woff2'),
+		url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Light.woff') format('woff');
+}
+@font-face {
+	font-family: 'Mont';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-SemiBold.woff2') format('woff2'),
+		url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-SemiBold.woff') format('woff');
+}
+@font-face {
+	font-family: 'Mont';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Bold.woff2') format('woff2'),
+		url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Bold.woff') format('woff');
+}
+@font-face {
+	font-family: 'Mont';
+	font-style: normal;
+	font-weight: 800;
+	font-display: auto;
+	src: url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Heavy.woff2') format('woff2'),
+		url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Heavy.woff') format('woff');
+}
+@font-face {
+	font-family: 'Mont';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Black.woff2') format('woff2'),
+		url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Black.woff') format('woff');
+}
+/* End Custom Fonts CSS */

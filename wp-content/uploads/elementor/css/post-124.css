@@ -1,0 +1,49 @@
+.elementor-124 .elementor-element.elementor-element-ea08637 .elementor-heading-title{color:#FFFFFF;font-family:"Mont", Sans-serif;font-size:24px;font-weight:600;text-transform:capitalize;letter-spacing:0px;text-shadow:0px 0px 10px rgba(0,0,0,0.3);}.elementor-124 .elementor-element.elementor-element-ea08637{width:auto;max-width:auto;bottom:32px;}body:not(.rtl) .elementor-124 .elementor-element.elementor-element-ea08637{left:18px;}body.rtl .elementor-124 .elementor-element.elementor-element-ea08637{right:18px;}@media(max-width:767px){.elementor-124 .elementor-element.elementor-element-b7564f9 > .elementor-element-populated{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-124 .elementor-element.elementor-element-ea08637 .elementor-heading-title{font-size:20px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Mont';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Regular.woff2') format('woff2'),
+		url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Regular.woff') format('woff');
+}
+@font-face {
+	font-family: 'Mont';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Light.woff2') format('woff2'),
+		url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Light.woff') format('woff');
+}
+@font-face {
+	font-family: 'Mont';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-SemiBold.woff2') format('woff2'),
+		url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-SemiBold.woff') format('woff');
+}
+@font-face {
+	font-family: 'Mont';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Bold.woff2') format('woff2'),
+		url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Bold.woff') format('woff');
+}
+@font-face {
+	font-family: 'Mont';
+	font-style: normal;
+	font-weight: 800;
+	font-display: auto;
+	src: url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Heavy.woff2') format('woff2'),
+		url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Heavy.woff') format('woff');
+}
+@font-face {
+	font-family: 'Mont';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Black.woff2') format('woff2'),
+		url('https://3.85.224.186/wp-content/uploads/2021/03/Mont-Black.woff') format('woff');
+}
+/* End Custom Fonts CSS */
